@@ -1,0 +1,18 @@
+body {
+    background-image: none;
+}
+
+.startup h1 {
+    margin-bottom: 3px;
+    font-family: "Cormorant Garamound", serif;
+}
+
+.startup h3 {
+    margin-top: 6px;
+    font-family: "Cormorant Garamound", serif;
+}
+
+button {
+    border-radius: 5px;
+    font-family: "Cormorant Garamound", serif;
+}
